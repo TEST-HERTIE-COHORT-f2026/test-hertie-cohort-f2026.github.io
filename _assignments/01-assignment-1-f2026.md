@@ -2,6 +2,10 @@
 type: assignment
 date: 2026-09-15T23:59:00
 title: "Assignment 1"
+due_event:
+    type: due
+    date: 2026-09-15T23:59:00
+    description: "Assignment 1 due"
 ---
 Complete the TODOs in starter.py and push to main (that is your submission).
 
